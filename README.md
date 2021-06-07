@@ -13,6 +13,11 @@ _wie man es installiert_
 ## How to use
 _wie man es benützt_
 
+# Letto Bruteforce
+Unfinished code for bruteforcing the Result in normal Letto tasks.
+Need to be added:
+  - check if the "right answer" thingy pops up adn then stops the loop
+
 ## Credits
 **GET RECHNER** was built by **[Sebastian](https://github.com/sewimoser)**, _ADD MORE PEOPLE_
 
