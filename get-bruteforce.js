@@ -3,6 +3,7 @@ Fedor, 2021
 [!]Only Works if there is a "Pruefen" button
 To use it, please find out the name of the entry with: Right Click on the entry -> "untersuchen"/"investigate"
 and change the "form" variable
+To use copy it in the chrome console and run it (after changing the variables)
 */
 
 var n_try = 100; /*Number of trys the programm should check*/
