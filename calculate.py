@@ -1,5 +1,5 @@
 """
-Die funktionen um die Ergebnisse zu berechnen.
+Die funktionen um die Ergebnisse zu berechnen .
 """
 
 def calculate(task_data):
