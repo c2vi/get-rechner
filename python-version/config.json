@@ -1,0 +1,17 @@
+{
+    "fullscreen_mode": {
+        "type": "boolean",
+        "text": "Vollbildschirm Modus",
+        "value": false
+    },
+    "auto_next_task": {
+        "type": "boolean",
+        "text": "Automatisch zur n\u00e4chsten Aufgabe wechseln",
+        "value": false
+    },
+    "auto_start_letto": {
+        "type": "boolean",
+        "text": "Letto automatisch starten",
+        "value": false
+    }
+}

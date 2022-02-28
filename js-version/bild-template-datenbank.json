@@ -1,0 +1,55 @@
+{
+
+	"bauteile":{
+		"spule":{
+			"filename":"spule.png",
+			"size":[86,27],
+			"relative_curcit_connections":{
+				"1":[[0,10],[0,11]],
+				"2":[[]]
+			}
+		},
+		"widerstand":{
+			"filename":"widerstand.png",
+			"size":[86,26],
+			"relative_curcit_connections":{
+				"1":[[0,12],[0,13]],
+				"2":[[85,12],[85,13]]
+			}
+		},
+		"wechselstromquelle":{
+			"filename":"wechselstromquelle.png",
+			"size":[44,45],
+			"relative_curcit_connections":{
+				"1":[[0,21],[0,22]],
+				"2":[[43,21],[43,22]]
+			}
+		},
+		"spannungspfeil":{
+			"filename":"spannungspfeil.png",
+			"size":[107,14]
+		},
+		"kondensator":{
+			"filename":"kondensator.png",
+			"size":[20,58],
+			"relative_curcit_connections":{
+				"1":[[0,28],[0,29]],
+				"2":[[19,28],[19,29]]
+			}
+		}
+
+	},
+
+	"beschriftungen":[
+		{
+			"filename":""
+		}
+	]
+
+
+
+}
+
+
+
+
